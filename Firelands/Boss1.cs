@@ -101,7 +101,7 @@ namespace nextGame
             {
                 Console.WriteLine("==================");
                 Console.WriteLine("| (A)ttack |");
-                Console.WriteLine("| (H)eal   |");
+                Console.WriteLine("| (H)eal   |"); 
                 Console.WriteLine("===================");
                 Console.WriteLine("Health" + Program.currentPlayer.health);
                 string input = Console.ReadLine();
